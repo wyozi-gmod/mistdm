@@ -1,0 +1,15 @@
+"mistdm"
+{
+	"base" "sandbox"
+    "title" "MistDM"
+    "version" "1.0.0"
+    "menusystem" "1"
+
+    "author_name" "Cookie"
+    "author_email" ""
+    "author_url" ""
+
+    "icon" ""
+    "info" ""
+    "hide" "0"
+}
